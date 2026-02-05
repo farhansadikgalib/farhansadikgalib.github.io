@@ -8,3 +8,5 @@ google.com, pub-7332817050665098, DIRECT, f08c47fec0942fa0
 #Admob-Bidding
 #Fluct
 adingo.jp, 33714, RESELLER
+#OpenX
+openx.com, 564844992, RESELLER, 6a698e2ec38604c6
