@@ -1783,3 +1783,10 @@ footer {
     gap: 20px;
   }
 }
+
+/* Cloudflare Turnstile Widget */
+.cf-turnstile {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0;
+}
